@@ -1,7 +1,7 @@
 # GoogleMapsSuperZoomMapType
 A map type for Google maps that allows artificially zooming in beyond max zoom level
 
-I've just taken applicable files from an Angular 2 app.
+I've just taken applicable files from an Angular 2 app. It's written in Typescript, but the logic will be basically the same in Javascript (just without the typing).
 
 #### Example usage
 
